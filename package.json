@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "express": "^4.19.2",
-    "prisma": "^5.19.1",
-    "react-hook-form": "^7.53.0"
-  }
-}
